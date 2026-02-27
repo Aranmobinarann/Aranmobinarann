@@ -1,16 +1,26 @@
-## Hi there 👋
+# Welcome to My Profile
 
-<!--
-**Aranmobinarann/Aranmobinarann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I am **Aran Mobin Aran**. I am a passionate developer with a strong interest in creating software that enhances lives and businesses. I have expertise in various programming languages and technologies.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** JavaScript, Python, C++
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, Docker, VSCode
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![Aran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aranmobinarann&show_icons=true&count_private=true&theme=radical)
+
+## Welcome Message
+Thank you for visiting my profile! I am always open to collaboration and learning new things. Please feel free to reach out!  
+**با سلام!** من **آران موبین آران** هستم. یک توسعه دهنده پرشور با علاقه به ایجاد نرم افزاری که زندگی و کسب و کارها را بهبود بخشد. مهارت های من شامل زبان های برنامه نویسی و فناوری های مختلف است.
+
+## مهارت ها
+- **زبان ها:** جاوااسکریپت، پایتون، C++
+- **فریم ورک ها:** ری‌اکت، نود.جی‌اس، جنگو
+- **ابزارها:** Git، Docker، VSCode
+
+## آمار گیت‌هاب
+![��مار گیت‌هاب آران](https://github-readme-stats.vercel.app/api?username=Aranmobinarann&show_icons=true&count_private=true&theme=radical)
+
+## پیام خوش آمدگویی
+از اینکه به پروفایل من سر زدید متشکرم! من همیشه با کمال میل به همکاری و یادگیری چیزهای جدید علاقه دارم. لطفاً در صورت تمایل با من تماس بگیرید!
