@@ -1,3 +1,5 @@
+
+
 # Welcome to My Profile
 
 Hello! I am **Aran Mobin Aran**. I am a passionate developer with a strong interest in creating software that enhances lives and businesses. I have expertise in various programming languages and technologies.
@@ -24,3 +26,6 @@ Thank you for visiting my profile! I am always open to collaboration and learnin
 
 ## پیام خوش آمدگویی
 از اینکه به پروفایل من سر زدید متشکرم! من همیشه با کمال میل به همکاری و یادگیری چیزهای جدید علاقه دارم. لطفاً در صورت تمایل با من تماس بگیرید!
+
+## Contributing
+If you would like to contribute to this repository, please read the [Contributing Guidelines](CONTRIBUTING.md).
