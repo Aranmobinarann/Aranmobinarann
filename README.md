@@ -2,7 +2,7 @@
 
 # Aran Mobin Aran
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Open+to+Collaboration;Building+Meaningful+Projects;Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Open+to+Collaboration;Building+Meaningful+Projects;Always+Learning" alt="Typing SVG" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-@Aranmobinarann-181717?style=for-the-badge&logo=github)](https://github.com/Aranmobinarann)
 [![X](https://img.shields.io/badge/X-@aran180394-000000?style=for-the-badge&logo=x)](https://x.com/aran180394)
@@ -25,15 +25,16 @@
 
 ## About Me
 
-Hello! I’m **Aran Mobin Aran**, a passionate developer with a strong interest in creating software that improves people’s lives and businesses. I enjoy building practical, efficient, and modern digital solutions, and I’m always eager to learn, collaborate, and grow.
+Hello! I’m **Aran Mobin Aran**, a passionate developer who enjoys building software that improves people’s lives and businesses. I like writing clean, practical, and scalable code, and I’m always learning new technologies and improving my skills.
 
-I’m especially interested in:
+I’m especially focused on:
 - Web development
+- Full-stack engineering
 - Software architecture
-- Clean and maintainable code
+- APIs and system design
 - Problem solving
 - Automation
-- Building useful and scalable products
+- Building useful, modern products
 
 ---
 
@@ -44,7 +45,7 @@ I’m especially interested in:
 - Python
 - C++
 
-### Frameworks & Technologies
+### Technologies
 - React
 - Node.js
 - Django
@@ -52,12 +53,12 @@ I’m especially interested in:
 - Docker
 - VS Code
 
-### Focus Areas
+### Areas of Interest
 - Full-stack development
 - API design
 - UI/UX improvements
 - Product thinking
-- Scalable solutions
+- Scalable systems
 
 ---
 
@@ -88,46 +89,38 @@ Connect with me:
 
 ---
 
-## Wallet / Support Me
+## 💰 Support My Work
 
-<div align="center">
+If you’d like to support my work, you can send crypto using the wallets below.
 
-### 💰 Support My Work
-
-If you want to support my work, you can use the wallet addresses below.
-
-</div>
-
-```text
-TRON: TE93pmL3wiKSgg4PVSoS6SzoiGqAo2N8RS
-Solana: 4nmJyGcc9aq45Ta92wVcCgu14uQnrTADBq34r5kda3Xu
-Ethereum: 0x247E1C7CBEd3a707917EE136504652a78490eb72
-Bitcoin: bc1p870gt4kujwws6cclytfccgxu24y9dz46segeyl30tmraruzpudss8nu8s0
-Tether (USDT): UQBUEU2KEoew4Hp0q5dobENS0g4hgCjv_Jr2fAEVsa6Sp2AF
-```
+- TRON: `TE93pmL3wiKSgg4PVSoS6SzoiGqAo2N8RS`
+- Solana: `4nmJyGcc9aq45Ta92wVcCgu14uQnrTADBq34r5kda3Xu`
+- Ethereum: `0x247E1C7CBEd3a707917EE136504652a78490eb72`
+- Bitcoin: `bc1p870gt4kujwws6cclytfccgxu24y9dz46segeyl30tmraruzpudss8nu8s0`
+- Tether (USDT): `UQBUEU2KEoew4Hp0q5dobENS0g4hgCjv_Jr2fAEVsa6Sp2AF`
 
 ---
 
 ## Open to Collaboration
 
-I’m always open to:
-- Collaborative projects
+I’m open to:
+- Freelance and contract work
+- Team collaborations
+- Innovative projects
 - Learning new technologies
-- Building meaningful products
-- Creative opportunities
-- Technical discussions
+- Sharing ideas and building impactful products
 
 ---
 
 ## Welcome Message
 
-Thank you for visiting my profile. I’m always open to collaboration, learning, and building impactful projects. Feel free to connect with me anytime.
+Thank you for visiting my profile. I’m always happy to connect, collaborate, and build meaningful work together.
 
 ---
 
 ## فارسی
 
-با سلام! من **آران موبین آران** هستم، یک توسعه‌دهنده پرشور با علاقه به ساخت نرم‌افزاری که زندگی و کسب‌وکارها را بهتر می‌کند. همیشه مشتاق یادگیری، همکاری و ساخت پروژه‌های کاربردی و مؤثر هستم.
+با سلام! من **آران موبین آران** هستم، یک توسعه‌دهنده مشتاق و حرفه‌ای که به ساخت نرم‌افزارهایی با ارزش برای زندگی و کسب‌وکارها علاقه دارد. دوست دارم کدهای تمیز، کاربردی و مقیاس‌پذیر بنویسم و همیشه در حال یادگیری و پیشرفت هستم.
 
 ### مهارت‌ها
 - جاوااسکریپت
@@ -140,13 +133,6 @@ Thank you for visiting my profile. I’m always open to collaboration, learning,
 - Docker
 - VS Code
 
-### تمرکز اصلی
-- توسعه وب
-- طراحی API
-- بهبود تجربه کاربری
-- حل مسئله
-- ساخت راه‌حل‌های مقیاس‌پذیر
-
 ### شبکه‌های اجتماعی
 - گیت‌هاب: [@Aranmobinarann](https://github.com/Aranmobinarann)
 - ایکس: [@aran180394](https://x.com/aran180394)
@@ -158,17 +144,15 @@ Thank you for visiting my profile. I’m always open to collaboration, learning,
 - دیسکورد: @aranmobinaran
 
 ### حمایت مالی
-اگر بخواهی از کارم حمایت کنی، می‌توانی از آدرس‌های کیف پول زیر استفاده کنی:
+اگر مایل به حمایت از کارم هستید، می‌توانید از کیف پول‌های زیر استفاده کنید:
 
-```text
-TRON: TE93pmL3wiKSgg4PVSoS6SzoiGqAo2N8RS
-Solana: 4nmJyGcc9aq45Ta92wVcCgu14uQnrTADBq34r5kda3Xu
-Ethereum: 0x247E1C7CBEd3a707917EE136504652a78490eb72
-Bitcoin: bc1p870gt4kujwws6cclytfccgxu24y9dz46segeyl30tmraruzpudss8nu8s0
-Tether (USDT): UQBUEU2KEoew4Hp0q5dobENS0g4hgCjv_Jr2fAEVsa6Sp2AF
-```
+- TRON: `TE93pmL3wiKSgg4PVSoS6SzoiGqAo2N8RS`
+- Solana: `4nmJyGcc9aq45Ta92wVcCgu14uQnrTADBq34r5kda3Xu`
+- Ethereum: `0x247E1C7CBEd3a707917EE136504652a78490eb72`
+- Bitcoin: `bc1p870gt4kujwws6cclytfccgxu24y9dz46segeyl30tmraruzpudss8nu8s0`
+- Tether (USDT): `UQBUEU2KEoew4Hp0q5dobENS0g4hgCjv_Jr2fAEVsa6Sp2AF`
 
-از اینکه به پروفایل من سر زدید متشکرم. خوشحال می‌شوم با من در ارتباط باشید و پروژه‌های مفید و جذاب را با هم اجرا کنیم.
+از اینکه به پروفایل من سر زدید متشکرم. خوشحال می‌شوم با شما در ارتباط باشم و پروژه‌های ارزشمند و خلاقانه را با هم اجرا کنیم.
 
 ---
 
